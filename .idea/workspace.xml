@@ -134,8 +134,8 @@
         <option value="$PROJECT_DIR$/src/test/java/Setup/AppiumSetup.java" />
         <option value="$PROJECT_DIR$/src/test/java/Setup/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/PageObject.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Setup/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Setup/SD.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Setup/HomePage.java" />
       </list>
     </option>
   </component>
