@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.opera:operadriver:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opera/operadriver/unknown/operadriver-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opera/operadriver/unknown/operadriver-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/opera/operadriver/unknown/operadriver-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

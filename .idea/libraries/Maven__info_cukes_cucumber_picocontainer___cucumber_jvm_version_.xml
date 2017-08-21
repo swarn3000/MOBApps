@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: info.cukes:cucumber-picocontainer:${cucumber-jvm.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-picocontainer/${cucumber-jvm.version}/cucumber-picocontainer-${cucumber-jvm.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-picocontainer/${cucumber-jvm.version}/cucumber-picocontainer-${cucumber-jvm.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-picocontainer/${cucumber-jvm.version}/cucumber-picocontainer-${cucumber-jvm.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
